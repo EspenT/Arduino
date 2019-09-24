@@ -20,7 +20,7 @@
 
  */
 
-
+#include <stdint.h>
 #ifndef CORE_ESP8266_FEATURES_H
 #define CORE_ESP8266_FEATURES_H
 
